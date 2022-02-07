@@ -1,0 +1,42 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sajustsmile> */
+* {
+  margin: 0;
+}
+
+.app {
+  background-color: #fc8621;
+}
+
+.app__header {
+  background-color: #fff5c0;
+  padding: 0px;
+  border-bottom: 1.5px solid #cd5d7d;
+  object-fit: contain;
+  display: flex;
+  justify-content: space-between;
+  position: sticky;
+  top: 0;
+  z-index: 1;
+}
+.app__headerImage {
+  object-fit: contain;
+}
+
+.app__posts {
+  padding: 50px;
+}
+.app__signup {
+  display: flex;
+  flex-direction: column;
+}
+
+.app__signin {
+  display: flex;
+  flex-direction: column;
+}
+
+.logintoupload {
+  margin-bottom: 20px;
+  margin-left: 50px;
+  color: red;
+}
