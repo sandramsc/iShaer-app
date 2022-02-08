@@ -7,16 +7,17 @@
 
 ## Application Description
 
-Web application built to compliment instagram features -- add comments, sign in/up, login/out , upload images
+Web application built to compliment instagram features -- add comments, sign in/up, login/out, upload images
 
 ## Running
 
 To test the application run the following commands on your terminal:
 
-**Running the application locally:**
+**Clone repository:**
 
 ```
 git clone https://github.com/sajustsmile/iShaer-app.git
+cd iShaer-app
 ```
 
 - Install dependencies via NPM or yarn: _npm i_ OR _yarn_
