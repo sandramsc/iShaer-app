@@ -20,7 +20,7 @@ git clone https://github.com/sajustsmile/iShaer-app.git
 cd iShaer-app
 ```
 
-- Install dependencies via NPM or yarn: _npm i_ OR _yarn_
+- Install dependencies via npm or yarn: _npm i_ OR _yarn_
 
 - Website: To start it, run _npm start_ OR _yarn start_
 
