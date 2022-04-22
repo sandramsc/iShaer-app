@@ -16,7 +16,7 @@ To test the application run the following commands on your terminal:
 **Clone repository:**
 
 ```
-git clone https://github.com/sajustsmile/iShaer-app.git
+git clone https://github.com/sandramsc/iShaer-app.git
 cd iShaer-app
 ```
 
