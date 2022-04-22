@@ -1,3 +1,4 @@
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 import React, { useState, useEffect} from "react";
 import "./Post.css";
 import { db } from './firebase';
