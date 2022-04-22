@@ -1,4 +1,4 @@
-/* Designed & coded by Sandra Ashipala <https://github.com/sajustsmile> */
+/* Designed & coded by Sandra Ashipala <https://github.com/sandramsc> */
 import logo from './logo.png';
 import React, { useState, useEffect } from 'react';
 import './App.css';
